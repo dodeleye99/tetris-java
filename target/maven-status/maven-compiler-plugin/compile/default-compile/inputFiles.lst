@@ -1,0 +1,13 @@
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/GameAudio.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/model/ShapeStructure.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/model/Playfield.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/controller/InputController.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/model/GameLogic.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/controller/MyGameThread.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/view/GamePanel.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/BlockAlreadyAtPositonException.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/model/Tetromino.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/Tetris1.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/BlockNotFoundException.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/model/GhostStructure.java
+/Users/daniel/IdeaProjects/Tetris2/src/main/java/com/yahoo/dodeleye/tetris/model/Block.java
